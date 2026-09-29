@@ -3,14 +3,14 @@
 ## DIARIO 1
 
 ## EJERCICIO 1
-*[GitHub_Introduccion](GitHub_Introduccion.pdf)
-  * **Descripción** Trabajo dedicado a la introducción a GitHub
--
-*[MarkDown](./PracticaMarkDown) 
-  * **Descripción** En esta carpeta esta el archivo md y el pdf de como se ve el archivo md
--
-*[PracticaGitHub+MarkDown](./PracticaGitHub+MarkDown) 
-  * **Descripción** Creo y redacto el documento "GitHub.md", con GitHub, donde muestro las diferentes funciones de GitHub 
+- **[GitHub Introducción](./GitHub_Introduccion.pdf)**
+  - **Descripción:** Trabajo dedicado a la introducción a GitHub.
+
+- **[MarkDown](./PracticaMarkDown)**
+  - **Descripción:** En esta carpeta está el archivo `.md` y el PDF de cómo se ve el archivo `.md`.
+
+- **[Práctica GitHub + MarkDown](./PracticaGitHub+MarkDown)**
+  - **Descripción:** Creo y redacto el documento `GitHub.md` en GitHub, donde muestro las diferentes funciones de la plataforma.
 
 # UNIDAD 2
 
