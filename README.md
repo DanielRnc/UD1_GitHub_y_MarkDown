@@ -12,6 +12,8 @@
 - **[Práctica GitHub + MarkDown](./PracticaGitHub+MarkDown)**
   - **Descripción:** Creo y redacto el documento `GitHub.md` en GitHub, donde muestro las diferentes funciones de la plataforma.
 
+- **[EvaluacionYusoDeUnGeneradorDeDocumentacion](./EvaluacionYusoDeUnGeneradorDeDocumentacion)**
+  - **Descripción:** Aquí encontraras el documento comparativo, carpeta con el código y documentación y la breve reflexión.
 # UNIDAD 2
 
 ## DIARIO 2
