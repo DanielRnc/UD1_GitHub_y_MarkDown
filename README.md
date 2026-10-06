@@ -15,7 +15,7 @@
 - **[EvaluacionYusoDeUnGeneradorDeDocumentacion](./EvaluacionYusoDeUnGeneradorDeDocumentacion)**
   - **Descripción:** Aquí encontraras el documento comparativo, carpeta con el código y documentación y la breve reflexión.
  
-- **[Practica_de_seguridad_y_accesibilidad_en_el_control_de_versiones]([EvaluacionYusoDeUnGeneradorDeDocumentacion](https://github.com/DanielRnc/Pr-ctica_de_seguridad_y_accesibilidad_en_el_control_de_versiones.git))**
+- **[Practica_de_seguridad_y_accesibilidad_en_el_control_de_versiones](https://github.com/DanielRnc/Pr-ctica_de_seguridad_y_accesibilidad_en_el_control_de_versiones.git)**
   - **Descripción:** Configuración de permisos, visibilidad del repositorio, gestión de colaboradores y mas
     
 # UNIDAD 2
