@@ -24,7 +24,10 @@
 
 ## EJERCICIO 2
 - **[Presentación](./Proyecto)**
-  - **Descripción:** Aquí encontraras nuestro primer proyecto del año 
+  - **Descripción:** Aquí encontraras nuestro primer proyecto del año
+    
+- **[Cuestionario Presentación](./Cuestionario_presentacion)**
+  - **Descripción:** Aquí encontraras el cuestionario de la presentación 
 
 # UNIDAD 3
 
