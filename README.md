@@ -33,6 +33,17 @@
   - **Descripción:** Aquí encontraras el archivo md sobre la virtualización
 
 # UNIDAD 3
+- **[Apache Introducción](./Apache_introducción.pdf)**
+  - **Descripción:** Qué es Apache, su historia, alternativas y motivación.
+    
+- **[Apache Configuración](./Apache_Configuracion.pdf)**
+  - **Descripción:** Creación de un sitio con VirtualHost y control de acceso con usuario y contraseña.
+
+- **[Apache_HTTPS](./Apache_HTTPS.zip)**
+  - **Descripción:** Configuración de HTTPS con certificado autofirmado y redirección desde HTTP.
+
+- **[Nginx](./Nginx.zip)**
+  - **Descripción:** Instalación de Nginx y configuración de un sitio con bloque server.
 
 ## DIARIO 3
 
