@@ -3,7 +3,7 @@
 ## DIARIO 1
 
 ## EJERCICIO 1
-- **[GitHub Introducción](./GitHub_Introduccion.pdf)**
+- **[Apache Introducción](./Apache_introduccion.pdf)**
   - **Descripción:** Trabajo dedicado a la introducción a GitHub.
 
 - **[MarkDown](./PracticaMarkDown)**
