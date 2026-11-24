@@ -50,6 +50,20 @@
 ## EJERCICIO 3
 
 # UNIDAD 4
+- **[Tomcat: Investigación y descripción](./Tomcat_Investigación_y_descripción.pdf)**
+  - **Descripción:** Componentes de Tomcat e instalación en Ubuntu.
+
+- **[Tomcat: Identificación de archivos de configuración](./Tomcat_Identificación_de_archivos_de_configuración.pdf)**
+  - **Descripción:** Archivos de configuración de Tomcat y para qué sirve cada uno.
+
+- **[Tomcat: Despliegue simple de una aplicación web](./Tomcat_Despliegue_simple_de_una_aplicación_web.pdf)**
+  - **Descripción:** Despliegue de una aplicación Hello World en Tomcat.
+
+- **[Tomcat: Integración Tomcat + Servidor web](./Tomcat_Integración_Tomcat_Servidor_web.pdf)**
+  - **Descripción:** Apache como proxy delante de Tomcat.
+
+- **[Tomcat: Configuración de seguridad en Tomcat](./Tomcat_Configuración_de_seguridad_en_Tomcat.pdf)**
+  - **Descripción:** Usuarios, acceso al Manager y HTTPS en Tomcat.
 
 ## DIARIO 4
 
