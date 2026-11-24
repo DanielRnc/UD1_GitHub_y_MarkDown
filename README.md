@@ -33,6 +33,10 @@
   - **Descripción:** Aquí encontraras el archivo md sobre la virtualización
 
 # UNIDAD 3
+
+## DIARIO 3
+
+## EJERCICIO 3
 - **[Apache Introducción](./Apache_introducción.pdf)**
   - **Descripción:** Qué es Apache, su historia, alternativas y motivación.
     
@@ -45,11 +49,11 @@
 - **[Nginx](./Nginx.zip)**
   - **Descripción:** Instalación de Nginx y configuración de un sitio con bloque server.
 
-## DIARIO 3
-
-## EJERCICIO 3
-
 # UNIDAD 4
+
+## DIARIO 4
+
+## EJERCICIO 4
 - **[Tomcat: Investigación y descripción](./Tomcat_Investigación_y_descripción.pdf)**
   - **Descripción:** Componentes de Tomcat e instalación en Ubuntu.
 
@@ -64,10 +68,6 @@
 
 - **[Tomcat: Configuración de seguridad en Tomcat](./Tomcat_Configuración_de_seguridad_en_Tomcat.pdf)**
   - **Descripción:** Usuarios, acceso al Manager y HTTPS en Tomcat.
-
-## DIARIO 4
-
-## EJERCICIO 4
 
 # UNIDAD 5
 
